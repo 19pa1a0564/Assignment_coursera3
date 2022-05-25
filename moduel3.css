@@ -1,0 +1,22 @@
+#nav-bar{
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+.glyphicon{
+    font-size: 25px;
+    color:black;
+}
+body{
+    font-family: consolas;
+}
+.text-center{
+    font-size:35px;
+}
+.container{
+    background-color: grey;
+    font-size: 20px;
+}
+p{
+    color:black
+}
